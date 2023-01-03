@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/TextEditor2/src/TextEditor/Functions_GUI.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/TextEditor2/src/Command/Invoker.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/TextEditor2/src/Command/Receiver.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/TextEditor2/src/Command/Delete_Command.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/TextEditor2/src/Command/Write_Command.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/TextEditor2/src/Command/FindAndReplace_Command.java</file>
+        </group>
+    </open-files>
+</project-private>
